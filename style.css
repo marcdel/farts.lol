@@ -48,3 +48,19 @@ kbd {
   letter-spacing: 1px;
   color:#ffc600;
 }
+
+.footer {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  line-height:1;
+  bottom: 0;
+  margin-bottom: 10px;
+  position: fixed;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #ffc600;
+}
+
